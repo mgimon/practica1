@@ -17,7 +17,7 @@ public class notas {
          * 
          */
 	
-	public void IngresaNotas() {
+	public void IngresarNotas() {
 		//cuando ejeuctamos este metodo lo primnero que queremos es que nos pida notas
 		System.out.println("ingrese las notas del estudiante");
 		
